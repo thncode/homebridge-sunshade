@@ -1,16 +1,16 @@
 {
   "_from": "homebridge-sunshade",
-  "_id": "homebridge-homebridge-sunshade@0.0.1",
+  "_id": "homebridge-sunshade@0.0.1",
   "_inBundle": false,
   "_integrity": "sha512-lD6lD+0zUOXBK8FU8wGKeI54BAB6zfXR9QM+o5KvFBPhOh8P8DSlzY4dBtlB6d+xvbQzJw6R+d4KNXtsn8BgHg==",
-  "_location": "/homebridge-homebridge-sunshade",
+  "_location": "/homebridge-sunshade",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "homebridge-homebridge-sunshade",
-    "name": "homebridge-homebridge-sunshade",
-    "escapedName": "homebridge-homebridge-sunshade",
+    "raw": "homebridge-sunshade",
+    "name": "homebridge-sunshade",
+    "escapedName": "homebridge-sunshade",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -18,15 +18,15 @@
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/homebridge-homebridge-sunshade/-/homebridge-homebridge-sunshade-0.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/homebridge-sunshade/-/homebridge-sunshade-0.0.1.tgz",
   "_shasum": "ade33dad4c4b12dd0878413db26a7e44cd7dce56",
-  "_spec": "homebridge-homebridge-sunshade",
+  "_spec": "homebridge-sunshade",
   "_where": "/home/pi",
   "author": {
     "name": "Thomas Nemec"
   },
   "bugs": {
-    "url": "http://github.com/thncode/homebridge-homebridge-sunshade/issues"
+    "url": "http://github.com/thncode/homebridge-sunshade/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -39,17 +39,17 @@
     "homebridge": ">=0.4.1",
     "node": ">=0.12.0"
   },
-  "homepage": "https://github.com/thncode/homebridge-homebridge-sunshade",
+  "homepage": "https://github.com/thncode/homebridge-sunshade",
   "keywords": [
     "homebridge-plugin",
     "raspberrypi",
     "raspberry-pi",
     "switch"
   ],
-  "name": "homebridge-homebridge-sunshade",
+  "name": "homebridge-sunshade",
   "repository": {
     "type": "git",
-    "url": "git://github.com/thncode/homebridge-homebridge-sunshade.git"
+    "url": "git://github.com/thncode/homebridge-sunshade.git"
   },
   "version": "0.0.1"
 }
